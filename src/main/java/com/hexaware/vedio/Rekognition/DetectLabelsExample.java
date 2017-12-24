@@ -25,7 +25,7 @@ public class DetectLabelsExample {
 
      // AWSCredentials credentials;
       
-      BasicAWSCredentials awsCreds = new BasicAWSCredentials("AKIAIICB24AANU2NT2JQ", "9dgH8r2jr2Q/YqjhVIhRoXIzih2A56xIaXY7nbKF");
+      BasicAWSCredentials awsCreds = new BasicAWSCredentials("", "9dgH8r2jr2Q/");
     
       AmazonRekognition rekognitionClient = AmazonRekognitionClientBuilder
     	         .standard()

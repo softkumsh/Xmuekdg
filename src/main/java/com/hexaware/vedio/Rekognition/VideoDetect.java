@@ -51,7 +51,7 @@ public class VideoDetect {
   
 
    try {
-	    credentials = new BasicAWSCredentials("AKIAIICB24AANU2NT2JQ", "9dgH8r2jr2Q/YqjhVIhRoXIzih2A56xIaXY7nbKF");
+	    credentials = new BasicAWSCredentials("", "9dgH8r2jr2Q/");
    } catch (Exception e) {
       throw new AmazonClientException("Cannot load the credentials from the credential profiles file. "
          + "Please make sure that your credentials file is at the correct "
